@@ -1,0 +1,91 @@
+.badge1{
+background-color: #BEFF12;
+color:#85E61F;
+}
+
+.badge2{
+background-color: #6FFFD2;
+color:#00B3A9;
+}
+
+.badge3{
+background-color: #F1A080;
+color:#DC845F;
+}
+
+.badge4{
+background-color: #C6C6C6;
+color:#A09F9F;
+}
+
+.badge5{
+background-color: #FFDDEA;
+color:#FFBED5;
+}
+
+.badge6{
+background-color: #AC9FE6;
+color:#8874EC;
+}
+
+.badge7{
+background-color: #A4D8FF;
+color:#5CADDF;
+}
+
+.badge8{
+background-color: #FCF9E4;
+color:#E9E938;
+}
+
+
+
+.homepage{
+    width: 100%;
+}
+
+
+body{
+    background-color: #F5F5F5;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+    font-family: poppins;
+}
+
+h1{
+    text-align: center;
+    font-size: 3.19rem;
+    font-family: poppins;
+}
+
+.projects{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    flex-wrap:wrap;
+    align-content: end;
+    gap:3vh;
+    height: 40vh;
+}
+
+body > img{
+    width:90vw;
+}
+
+.center{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    gap:3vh;
+}
+
+.center > a{
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    padding: 0 1rem;
+    background-color: #A09F9F;
+}
